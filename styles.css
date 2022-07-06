@@ -9,6 +9,12 @@ body {
     max-width: 1440px;
     font-family: 'Open Sans', sans-serif;
 }
+p {
+   color: hsl(192, 100%, 9%);
+}
+h3 {
+    font-size: 25px;
+}
 /* main {
     margin: 30px;
 }
@@ -143,10 +149,15 @@ footer {
 }
 .header-three {
     text-align: left;
+    align-self: flex-end;
 }
 .third-paragraph {
     margin: 10px;
     padding-bottom: 15px;
+}
+.header-four {
+    text-align: left;
+    align-self: flex-end;
 }
 .fourth-image {
     margin: 10px;
@@ -181,6 +192,6 @@ footer {
     padding-bottom: 15px;
 }
 .image-one {
-    width: 500px;
+    width: 600px;
     height: 400px;
 }
