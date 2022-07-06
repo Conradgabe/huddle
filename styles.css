@@ -40,12 +40,25 @@ footer {
 }
 .second-box {
     display: flex;
+    justify-content: space-between;
+    margin: 50px 100px 200px;
+    padding: 20px;
+    border: 1px solid whitesmoke;
+    /* border: 1px solid white; */
 }
 .third-box {
     display: flex;
+    justify-content: space-between;
+    margin: 50px 100px 200px;
+    padding: 20px;
+    border: 1px solid whitesmoke;
 }
 .fourth-box {
     display: flex;
+    justify-content: space-between;
+    margin: 50px 100px 200px;
+    padding: 20px;
+    border: 1px solid whitesmoke;
 }
 .fifth-box {
     text-align: center;
@@ -93,41 +106,48 @@ footer {
     padding-bottom: 15px;
 }
 .second-image {
-    margin: 40px;
-    padding-left: 50px;
+    margin: 10px;
+    padding-left: 10px;
     width: 500px;
-    height: 100px;
-    align-self: center;
+    height: 200px;
 }
 .second-header {
     margin: 10px;
     padding-bottom: 15px;
+}
+.header-two {
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    align-self: flex-end;
+    line-height: 1.5;
 }
 .second-paragraph {
     margin: 10px;
     padding-bottom: 15px;
 }
 .third-image {
-    margin: 40px;
-    padding-left: 50px;
+    margin: 10px;
+    padding-left: 10px;
     width: 500px;
-    height: 100px;
-    align-self: center;
+    height: 200px;
 }
 .third-header {
     margin: 10px;
     padding-bottom: 15px;
+}
+.header-three {
+    text-align: left;
 }
 .third-paragraph {
     margin: 10px;
     padding-bottom: 15px;
 }
 .fourth-image {
-    margin: 40px;
-    padding-left: 50px;
+    margin: 10px;
+    padding-left: 10px;
     width: 500px;
-    height: 100px;
-    align-self: center;
+    height: 200px;
 }
 .fourth-header {
     margin: 10px;
