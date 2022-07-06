@@ -1,0 +1,151 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+    background-color: white;
+    max-width: 1960px;
+
+}
+main {
+    margin: 30px;
+}
+header {
+    margin: 30px;
+}
+footer {
+    margin: 30px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.bg-image {
+    background-image: url('../bg-hero-desktop.svg');
+}
+.first-box {
+    display: flex;
+}
+.second-box {
+    display: flex;
+}
+.third-box {
+    display: flex;
+}
+.fourth-box {
+    display: flex;
+}
+.fifth-box {
+    text-align: center;
+    background-color: white;
+    width: 300px;
+    height: 500xp;
+}
+.footer {
+    display: flex;
+}
+.first-btn {
+    width: 120px;
+    height: 30px;
+    border-radius: 25px;
+    border: 2px solid white;
+    background-color: white;
+    box-shadow: 0px 1px 2px;
+}
+.first-image {
+    margin: 40px;
+    padding-left: 50px;
+    width: 500px;
+    height: 300px;
+    align-self: center;
+}
+.first-header {
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.first-paragraph {
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.second-btn {
+    width: 200px;
+    height: 35px;
+    border-radius: 25px;
+    border: 2px solid white;
+    background-color: white;
+    box-shadow: 0px 1px 2px;
+}
+.second-button {
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.second-image {
+    margin: 40px;
+    padding-left: 50px;
+    width: 500px;
+    height: 100px;
+    align-self: center;
+}
+.second-header {
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.second-paragraph {
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.third-image {
+    margin: 40px;
+    padding-left: 50px;
+    width: 500px;
+    height: 100px;
+    align-self: center;
+}
+.third-header {
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.third-paragraph {
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.fourth-image {
+    margin: 40px;
+    padding-left: 50px;
+    width: 500px;
+    height: 100px;
+    align-self: center;
+}
+.fourth-header {
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.fourth-paragraph {
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.third-btn {
+    width: 200px;
+    height: 35px;
+    border-radius: 25px;
+    border: 2px solid white;
+    background-color: white;
+    box-shadow: 0px 1px 2px;
+}
+.third-button {
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.fifth-header {
+    text-align: center;
+    margin: 10px;
+    padding-bottom: 15px;
+}
+.image-one {
+    width: 300px;
+    height: 300px;
+}
