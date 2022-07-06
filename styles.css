@@ -24,7 +24,7 @@ footer {
     margin-bottom: 50px;
 }
 .bg-image {
-    background-image: url('../bg-hero-desktop.svg');
+    background-image: url('bg-hero-desktop.svg');
 }
 .first-box {
     display: flex;
